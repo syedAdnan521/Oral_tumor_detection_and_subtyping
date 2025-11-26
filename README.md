@@ -12,8 +12,7 @@ This repository contains code  that implements a multi-stage Multiple Instance L
 - `app/` : Streamlit demo app (`streamlit_app.py`).
 - `data/` : Dataset splits (`train/`, `val/`, `test/`) with class subfolders.
 - `outputs/` : Trained models, metrics, heatmaps, figures, and logs.
-- `notebooks/` : Analysis and visualization notebooks (e.g., uncertainty analysis).
-- `src/` : Core code (config, models, data loading, training, evaluation).
+- `notebooks/` : Core code and Analysis and visualization notebooks (e.g., uncertainty analysis).
 - `requirements.txt` : Python dependencies.
 
 **Quick Setup**
