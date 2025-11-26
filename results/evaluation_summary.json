@@ -1,0 +1,22 @@
+{
+  "stage2": {
+    "pred_csv": "/Users/syedadnanahmad/Downloads/AI_TUMOUR_detection/results/oscc_test_predictions_K20.csv",
+    "cm": "/Users/syedadnanahmad/Downloads/AI_TUMOUR_detection/results/oscc_cm_K20.png",
+    "aucs": {
+      "0": 0.7704918032786885,
+      "1": 0.7543461829176116,
+      "2": 0.8451652386780907
+    }
+  },
+  "stage1": {
+    "pred_csv": "/Users/syedadnanahmad/Downloads/AI_TUMOUR_detection/results/stage1_test_predictions_K20.csv",
+    "cm": "/Users/syedadnanahmad/Downloads/AI_TUMOUR_detection/results/stage1_cm_K20.png",
+    "aucs": {
+      "0": 0.9829931972789115,
+      "1": 0.9829931972789115
+    }
+  },
+  "combined": {
+    "pred_csv": "/Users/syedadnanahmad/Downloads/AI_TUMOUR_detection/results/combined_pipeline_predictions.csv"
+  }
+}

@@ -1,0 +1,1 @@
+{"patch_paths": ["/Users/syedadnanahmad/Downloads/AI_Tumour_detection/data/ORCHID/val/mdoscc/o-3-00-38/o-3-00-38-001.png", "/Users/syedadnanahmad/Downloads/AI_Tumour_detection/data/ORCHID/val/mdoscc/o-3-00-38/o-3-00-38-005.png", "/Users/syedadnanahmad/Downloads/AI_Tumour_detection/data/ORCHID/val/mdoscc/o-3-00-38/o-3-00-38-008.png"], "n_patches": 3, "emb_dim": 512}
